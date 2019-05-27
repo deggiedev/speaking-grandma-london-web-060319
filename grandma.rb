@@ -1,5 +1,5 @@
 def speak-to_grandma(phrase)
-  if phrase.upcase == false
+  if #{phrase}.upcase == false
     "HUH?! SPEAK UP, SONNY!"
   end
     
