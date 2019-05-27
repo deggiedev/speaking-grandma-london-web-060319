@@ -1,4 +1,4 @@
-def speak-to_grandma(phrase)
+def speak_to_grandma(phrase)
   if #{phrase}.upcase == false
     "HUH?! SPEAK UP, SONNY!"
   end
